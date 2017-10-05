@@ -44,9 +44,10 @@
               <h3 class="masthead-brand">Resume</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="active"><a href="#">Home</a></li>
+                  <li><a href="file:///C:/Users/caoyu/Desktop/YuCao-RESUME.htm">Resume</a></li>
                   <li><a href="https://www.linkedin.com/in/yu-cao-4b6526150/">Linkedin page</a></li>
                   <li><a href="https://github.com/daisy-cao/601HW2">Github page</a></li>
+
                 </ul>
               </nav>
             </div>
